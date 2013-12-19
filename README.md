@@ -1,4 +1,4 @@
 portlet
 =======
 
-jQUeryUI portlets and PHP backend
+jQueryUI portlets and PHP backend that reads MySQL database
