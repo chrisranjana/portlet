@@ -4,7 +4,7 @@ function f1(){
 }
 // texas
 function f2(){
-echo 'howdy';
+echo 'howdy from texas';
 }
 
 function f3(){
