@@ -4,7 +4,7 @@ function f1(){
 }
 // texas
 function f2(){
-dlfgkjdlfgkjdlfgj dlkfgjldfkjgldfkgjldfg
+document.write('hay');
 }
 
 function f3(){
