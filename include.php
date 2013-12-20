@@ -4,8 +4,7 @@ function f1(){
 }
 // texas
 function f2(){
-echo 'hello from LA';
-echo 'hello from NYC';
+dlfgkjdlfgkjdlfgj dlkfgjldfkjgldfkgjldfg
 }
 
 function f3(){
