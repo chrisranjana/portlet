@@ -5,6 +5,7 @@ function f1(){
 // texas
 function f2(){
 echo 'hello from LA';
+echo 'hello from NYC';
 }
 
 function f3(){
