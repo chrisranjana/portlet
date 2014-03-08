@@ -1,1 +1,1 @@
-index page created in win7
+index page created in win7 and altered in aptana
