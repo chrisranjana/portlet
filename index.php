@@ -1,1 +1,4 @@
-index page created in win7
+<?php
+header('Location: portlet.html', true, 302);
+exit;
+?>
