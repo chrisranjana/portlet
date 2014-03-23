@@ -1,1 +1,0 @@
-about page creted in xp
